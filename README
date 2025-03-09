@@ -2,17 +2,9 @@ These are some parts of the UEFI ROM for the
 Lenovo ideapad 330-15IKB (Type 81FD) laptop.
 
 Warning: This should only be used for
-information and learning purposes only. Do
-not try to modify or flash these binaries,
-because the binary list present on this repo
-is incomplete. I should upload the vast
-majority of the files, but do not dare to do
-what I said before. It is not for your
-laptop, even if it matches the same model
-and specs. The brazilian model is very
-different on the insides, and I don't know
-if they modified something in the UEFI
-firmware to acknowledge these changes.
+information and learning purposes only. All
+binaries and code are copyright from Lenovo
+and Insyde Corporation.
 
 Dumped by Lucas Gabriel (lucmsilva)
 <lucmsilva651@gmail.com>
